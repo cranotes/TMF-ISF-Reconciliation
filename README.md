@@ -10,6 +10,10 @@ TMF is the story book of the Sponsor while the ISF is the story book of the Inve
 
 It is import that both systems match in their contents and we achieve this by ETF/ISF reconciliation.
 
+This reconciliation can be achieved by making both systems talk to each other using one language 
+
+
+
 
 
 
